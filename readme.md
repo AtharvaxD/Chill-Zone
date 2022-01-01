@@ -1,6 +1,6 @@
-# Chill-Zone
+# Chill-Zone server Rules
 
-Hey there Wecome to Chill-Zone server's Info,
+Hey there Wecome to Chill-Zone server rules,
 here are some rules check out.
 
 • No Spam in chat
